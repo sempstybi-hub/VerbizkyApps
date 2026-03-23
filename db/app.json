@@ -1,0 +1,292 @@
+{
+    "projects": [
+        {
+            "name": "Test Program",
+            "version": "1.0.0",
+            "description": "Это тестовая программа для демонстрации",
+            "status": "ready",
+            "image": "img/test.png",
+            "downloadLink": "downloads/test_program.exe"
+        },
+        {
+            "name": "Test Program 2",
+            "version": "0.5.0",
+            "description": "Приложение в разработке",
+            "status": "development",
+            "image": "img/test.png",
+            "downloadLink": "#"
+        },
+        {
+            "name": "Test Program 3",
+            "version": "2.1.0",
+            "description": "Заброшенный проект",
+            "status": "abandoned",
+            "image": "img/test.png",
+            "downloadLink": "downloads/old_project.zip"
+        },
+                {
+            "name": "Test Program",
+            "version": "1.0.0",
+            "description": "Это тестовая программа для демонстрации",
+            "status": "ready",
+            "image": "img/test.png",
+            "downloadLink": "downloads/test_program.exe"
+        },
+        {
+            "name": "Test Program 2",
+            "version": "0.5.0",
+            "description": "Приложение в разработке",
+            "status": "development",
+            "image": "img/test.png",
+            "downloadLink": "#"
+        },
+        {
+            "name": "Test Program 3",
+            "version": "2.1.0",
+            "description": "Заброшенный проект",
+            "status": "abandoned",
+            "image": "img/test.png",
+            "downloadLink": "downloads/old_project.zip"
+        },
+                {
+            "name": "Test Program",
+            "version": "1.0.0",
+            "description": "Это тестовая программа для демонстрации",
+            "status": "ready",
+            "image": "img/test.png",
+            "downloadLink": "downloads/test_program.exe"
+        },
+        {
+            "name": "Test Program 2",
+            "version": "0.5.0",
+            "description": "Приложение в разработке",
+            "status": "development",
+            "image": "img/test.png",
+            "downloadLink": "#"
+        },
+        {
+            "name": "Test Program 3",
+            "version": "2.1.0",
+            "description": "Заброшенный проект",
+            "status": "abandoned",
+            "image": "img/test.png",
+            "downloadLink": "downloads/old_project.zip"
+        },
+                {
+            "name": "Test Program",
+            "version": "1.0.0",
+            "description": "Это тестовая программа для демонстрации",
+            "status": "ready",
+            "image": "img/test.png",
+            "downloadLink": "downloads/test_program.exe"
+        },
+        {
+            "name": "Test Program 2",
+            "version": "0.5.0",
+            "description": "Приложение в разработке",
+            "status": "development",
+            "image": "img/test.png",
+            "downloadLink": "#"
+        },
+        {
+            "name": "Test Program 3",
+            "version": "2.1.0",
+            "description": "Заброшенный проект",
+            "status": "abandoned",
+            "image": "img/test.png",
+            "downloadLink": "downloads/old_project.zip"
+        },
+                {
+            "name": "Test Program",
+            "version": "1.0.0",
+            "description": "Это тестовая программа для демонстрации",
+            "status": "ready",
+            "image": "img/test.png",
+            "downloadLink": "downloads/test_program.exe"
+        },
+        {
+            "name": "Test Program 2",
+            "version": "0.5.0",
+            "description": "Приложение в разработке",
+            "status": "development",
+            "image": "img/test.png",
+            "downloadLink": "#"
+        },
+        {
+            "name": "Test Program 3",
+            "version": "2.1.0",
+            "description": "Заброшенный проект",
+            "status": "abandoned",
+            "image": "img/test.png",
+            "downloadLink": "downloads/old_project.zip"
+        },
+                {
+            "name": "Test Program",
+            "version": "1.0.0",
+            "description": "Это тестовая программа для демонстрации",
+            "status": "ready",
+            "image": "img/test.png",
+            "downloadLink": "downloads/test_program.exe"
+        },
+        {
+            "name": "Test Program 2",
+            "version": "0.5.0",
+            "description": "Приложение в разработке",
+            "status": "development",
+            "image": "img/test.png",
+            "downloadLink": "#"
+        },
+        {
+            "name": "Test Program 3",
+            "version": "2.1.0",
+            "description": "Заброшенный проект",
+            "status": "abandoned",
+            "image": "img/test.png",
+            "downloadLink": "downloads/old_project.zip"
+        },
+                {
+            "name": "Test Program",
+            "version": "1.0.0",
+            "description": "Это тестовая программа для демонстрации",
+            "status": "ready",
+            "image": "img/test.png",
+            "downloadLink": "downloads/test_program.exe"
+        },
+        {
+            "name": "Test Program 2",
+            "version": "0.5.0",
+            "description": "Приложение в разработке",
+            "status": "development",
+            "image": "img/test.png",
+            "downloadLink": "#"
+        },
+        {
+            "name": "Test Program 3",
+            "version": "2.1.0",
+            "description": "Заброшенный проект",
+            "status": "abandoned",
+            "image": "img/test.png",
+            "downloadLink": "downloads/old_project.zip"
+        },
+                {
+            "name": "Test Program",
+            "version": "1.0.0",
+            "description": "Это тестовая программа для демонстрации",
+            "status": "ready",
+            "image": "img/test.png",
+            "downloadLink": "downloads/test_program.exe"
+        },
+        {
+            "name": "Test Program 2",
+            "version": "0.5.0",
+            "description": "Приложение в разработке",
+            "status": "development",
+            "image": "img/test.png",
+            "downloadLink": "#"
+        },
+        {
+            "name": "Test Program 3",
+            "version": "2.1.0",
+            "description": "Заброшенный проект",
+            "status": "abandoned",
+            "image": "img/test.png",
+            "downloadLink": "downloads/old_project.zip"
+        },
+                {
+            "name": "Test Program",
+            "version": "1.0.0",
+            "description": "Это тестовая программа для демонстрации",
+            "status": "ready",
+            "image": "img/test.png",
+            "downloadLink": "downloads/test_program.exe"
+        },
+        {
+            "name": "Test Program 2",
+            "version": "0.5.0",
+            "description": "Приложение в разработке",
+            "status": "development",
+            "image": "img/test.png",
+            "downloadLink": "#"
+        },
+        {
+            "name": "Test Program 3",
+            "version": "2.1.0",
+            "description": "Заброшенный проект",
+            "status": "abandoned",
+            "image": "img/test.png",
+            "downloadLink": "downloads/old_project.zip"
+        },
+                {
+            "name": "Test Program",
+            "version": "1.0.0",
+            "description": "Это тестовая программа для демонстрации",
+            "status": "ready",
+            "image": "img/test.png",
+            "downloadLink": "downloads/test_program.exe"
+        },
+        {
+            "name": "Test Program 2",
+            "version": "0.5.0",
+            "description": "Приложение в разработке",
+            "status": "development",
+            "image": "img/test.png",
+            "downloadLink": "#"
+        },
+        {
+            "name": "Test Program 3",
+            "version": "2.1.0",
+            "description": "Заброшенный проект",
+            "status": "abandoned",
+            "image": "img/test.png",
+            "downloadLink": "downloads/old_project.zip"
+        },
+                {
+            "name": "Test Program",
+            "version": "1.0.0",
+            "description": "Это тестовая программа для демонстрации",
+            "status": "ready",
+            "image": "img/test.png",
+            "downloadLink": "downloads/test_program.exe"
+        },
+        {
+            "name": "Test Program 2",
+            "version": "0.5.0",
+            "description": "Приложение в разработке",
+            "status": "development",
+            "image": "img/test.png",
+            "downloadLink": "#"
+        },
+        {
+            "name": "Test Program 3",
+            "version": "2.1.0",
+            "description": "Заброшенный проект",
+            "status": "abandoned",
+            "image": "img/test.png",
+            "downloadLink": "downloads/old_project.zip"
+        },
+                {
+            "name": "Test Program",
+            "version": "1.0.0",
+            "description": "Это тестовая программа для демонстрации",
+            "status": "ready",
+            "image": "img/test.png",
+            "downloadLink": "downloads/test_program.exe"
+        },
+        {
+            "name": "Test Program 2",
+            "version": "0.5.0",
+            "description": "Приложение в разработке",
+            "status": "development",
+            "image": "img/test.png",
+            "downloadLink": "#"
+        },
+        {
+            "name": "Test Program 3",
+            "version": "2.1.0",
+            "description": "Заброшенный проект",
+            "status": "abandoned",
+            "image": "img/test.png",
+            "downloadLink": "downloads/old_project.zip"
+        }
+    ]
+}
